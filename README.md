@@ -1,2 +1,1 @@
-# irsensor
-this is a lib for ir sensor
+hi this is ir sensor lib
